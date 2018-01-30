@@ -1,4 +1,4 @@
-### Part-1-Introductuon
+### Part-1-Introduction
 #### Foreword
 Coming here, you must know what you want to using latex. I mention again here. You probably eagerly want to make a "decent documemt" with a PDF format to submit your editor of a intended jounrnal. Well, for an urgency of this situation, you probably need "a quick Tool" and "a quick workflow." So let's start. (Don't hesitate to install the tool and use it as I recommanded below. Anyway, you can change to any better one after you get familiar with the basic. The heistation is quite time-consuming don't say I haven't warned you.)
 
